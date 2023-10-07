@@ -1,6 +1,3 @@
-# .github
-
-
 # Sharknado 🦈
 
 ## Overview
